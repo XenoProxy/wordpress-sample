@@ -1,0 +1,20 @@
+/*
+Theme Name: Twenty Twenty-Five Child
+Theme URI: https://example.com/twentytwentyfive-child
+Description: My custom child theme for Twenty Twenty-five.
+Author: XenoProxy
+Template: twentytwentyfive
+Version: 1.0.0
+Text Domain: twentytwentyfive-child
+*/
+
+/* Ваши кастомные стили начнутся здесь. Они переопределят или дополнят стили родительской темы. */
+body {
+    font-family: 'Open Sans', sans-serif; /* Пример изменения шрифта */
+    color: #3a3064; /* Пример изменения цвета текста */
+}
+
+/* Пример изменения цвета заголовка сайта */
+.site-title a {
+    color: #e67e22;
+}

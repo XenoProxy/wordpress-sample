@@ -12,7 +12,7 @@
 
 # Custom themes & plugins
 !/wordpress/wp-content/themes/my-custom-theme/
-
+!/wordpress/wp-content/themes/twentytwentyfive-child/
 
 /wordpress/wp-content/index.php
 /wp-content/index.php
