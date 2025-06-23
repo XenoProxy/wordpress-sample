@@ -7,7 +7,12 @@
 /wordpress/wp-content/upgrade
 /wordpress/wp-content/uploads
 /wordpress/wp-content/plugins
-/wordpress/wp-content/themes
+/wordpress/wp-content/themes/*
+
+
+# Custom themes & plugins
+!/wordpress/wp-content/themes/my-custom-theme/
+
 
 /wordpress/wp-content/index.php
 /wp-content/index.php
